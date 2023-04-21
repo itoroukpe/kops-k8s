@@ -1,7 +1,7 @@
 ## kops-kubernetes-cluster-configuration
-## Landmark Technologies,  -    Landmark Technologies 
-## Tel: +1 437 215 2483,   -     +1 437 215 2483 
-## mylandmarktech@gaIL.com,  -    www.mylandmarktech.com 
+## Rondus Technologies,  -    Rondus Technologies 
+## Tel: +1 832 335 7561,   -     +1  832 335 7571
+## rondustech.com,  -    www.rondustech.com 
 
 ## Setting up Kubernetes (K8s) Cluster on AWS Using KOPS
 
